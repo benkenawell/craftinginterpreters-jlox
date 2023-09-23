@@ -1,0 +1,1 @@
+MSYS_NO_PATHCONV=1 docker run --rm -v /c/Users/benke/Documents/repos/jlox:/usr/src/app -w /usr/src/app openjdk javac Lox.java
