@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+winpty powershell -File run-tool.ps1 $1
